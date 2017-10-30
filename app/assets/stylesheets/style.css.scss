@@ -1,0 +1,35 @@
+body {
+  padding-top: 54px;
+  background-color: #4BABCA !important; 
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+  border: #4BABCA !important;
+}
+
+.card-body {
+  background-color: #8F88D6 !important;
+}
+
+.card-footer {
+  background-color: #999999 !important;
+}
+
+
+.btn-primary {
+  background-color: #E79EED !important;
+  border-color: #E79EED !important;
+  color: rgb(46, 53, 53) !important;
+}
+
+.my-4 {
+  background-image: url("https://cdn.Voyager.pgsitecore.com/en-us/-/media/GilletteVenus/Images/Callouts/Desktop/Home/Fabric_herospace_DT-940x420.jpg?h=420&la=en-US&w=940&v=1-201704101344");
+  color: white;
+}
