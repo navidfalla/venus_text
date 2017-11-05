@@ -1,0 +1,42 @@
+#list the products in a hash
+#list keywords for them in different arrays
+#write a function that takes a text as input, deletes the shit (a, the,), make an array of the rest?
+  #if disposable if refill else
+#compare them to each of each of keyword arrays and add value to hash
+
+Venus ComfortGlide Vanilla Crème Razor [ComfortGlide, comfort, glide, vanilla, creme, Crème, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus ComfortGlide With Olay Razor  [ComfortGlide, comfort, glide, olay, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus Bikini Trimmer [trimmer, bikini, razor, three, 3, sensitive]
+Venus Swirl Razor in Blue [swirl, razor, blue, five, 5, no_soap, flexiball]
+Venus Swirl Razor in Purple [swirl, razor, purple, five, 5, no_soap, flexiball, without]
+Venus Embrace Sensitive Razor [embrace, sensitive, razor, five, 5, moisture, aloe, aloevera, no_soap, without]
+Venus Snap with Embrace Razor in Cosmo Pink [snap, embrace, razor, pink, travel, small, compact, case, five, 5, no_soap, without, smooth]
+Venus ComfortGlide White Tea Razor [ComfortGlide, comfort, glide, tea, white, white_tea, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus ComfortGlide With Olay Sugarberry Razor [ComfortGlide, comfort, glide, olay, sugarberry, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus ComfortGlide Freesia Razor [ComfortGlide, comfort, glide, freesia, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus Embrace Razor in Green [embrace, smooth, razor, five, 5, green, no_soap, without]
+Venus Original Razor [original, razor, three, 3, no_soap, without, cushion]
+Venus Embrace Razor in Passionista Purple [embrace, smooth, razor, five, 5, purple, no_soap, without]
+Venus Divine Sensitive Razor [divine, sensitive, razor, three, 3, no_soap, without]
+Venus Embrace Razor in Pink [embrace, smooth, razor, five, 5, pink, no_soap, without]
+
+refills:
+ComfortGlide Vanilla Crème refills [ComfortGlide, comfort, glide, vanilla, creme, Crème, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus Swirl refills [swirl, razor, five, 5, no_soap, flexiball]
+venus embrace refills [embrace, smooth, razor, five, 5, no_soap, without]
+Venus ComfortGlide With Olay Sugarberry refills [ComfortGlide, comfort, glide, olay, sugarberry, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus Original Refills [original, razor, three, 3, no_soap, without, cushion]
+Venus Embrace Sensitive Refills [embrace, sensitive, razor, five, 5, moisture, aloe, aloevera, no_soap, without]
+Venus ComfortGlide Freesia Refills [ComfortGlide, comfort, glide, freesia, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus ComfortGlide White Tea refills [ComfortGlide, comfort, glide, white_tea, white, tea, whitetea, scented, razor, soapbar, five, 5, experiential, experience, premium]
+Venus Embrace Razor in Passionista refills [embrace, smooth, razor, five, 5, Passionista, passion, no_soap, without]
+Venus Divine Sensitive Refills [divine, sensitive, razor, three, 3, no_soap, without]
+
+disposable
+Embrace [embrace, smooth, three, 3, purple, no_soap, without]
+Embrace sensitive [embrace, sensitive, three, 3, moisture, aloe, aloevera, no_soap, without]
+Oceana [oceana, three, 3, comfort, cushion, blue, no_soap, without]
+Tropical [tropical, comfort, cushion, three, 3, scented, scent, no_soap, without]
+Sensitive [comfort, cushion, sensitive, three, 3, moisture, aloe, aloevera, no_soap, without]
+Venus Simply [Simple, 3, three, square, lubrastrip, lube, pivoting, pivot, smooth]
+
